@@ -8,6 +8,8 @@ public class HolaGIT {
 		
 		String nombre = "Enrique";
 		System.out.println(nombre);
+		int a = 2;
+		System.out.println((a+a));
 	}
 
 }
